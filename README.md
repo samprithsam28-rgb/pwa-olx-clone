@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OLX PWA APP ❤️
 ## Build with vanillaJs
 
@@ -23,3 +24,6 @@
 they  have  messages  from  buyers  or  sellers. 
 These  notifications  look  the  same  as  those  on  native  apps,  and  arrive  even  if  the  browser  is  no  longer  running.
 
+=======
+# pwa-olx-clone
+>>>>>>> b6e3f05576e739939c327bc54f8960bef7d21dc9
